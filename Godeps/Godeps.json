@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/timehop/tizzimehop-replay",
+	"GoVersion": "go1.4.2",
+	"Packages": [
+		"cmd/web/main.go"
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/nlopes/slack",
+			"Comment": "v0.0.1-69-g9153359",
+			"Rev": "9153359e4c6e3dd6fecd68332164321b5efd543f"
+		},
+		{
+			"ImportPath": "golang.org/x/net/websocket",
+			"Rev": "b6fdb7d8a4ccefede406f8fe0f017fb58265054c"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+  "channels" :[{
+    "years_ago": 1,
+    "source_channel_id": "<channel_id>",
+    "target_channel_name": "#general_1yr_ago",
+    "suppress_notifications": true
+  }]
+}
